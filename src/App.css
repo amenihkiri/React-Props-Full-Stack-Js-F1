@@ -1,0 +1,25 @@
+.student-list{
+  background-color: lightseagreen;
+  display: flex;
+  justify-content: space-between;
+}
+
+.student-card{
+  border:2px solid;
+  width:200px
+}
+.yellow{
+  border:2px solid;
+  width:200px;
+  background-color: yellow;
+}
+.red{
+  border:2px solid;
+  width:200px;
+  background-color: red;
+}
+.green{
+  border:2px solid;
+  width:200px;
+  background-color: green;
+}
